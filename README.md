@@ -1,7 +1,7 @@
 # Ransom.py
 
 <div>
-    <p>Projeto criado para fins educacionais no estudo de ransomwares com Python.</p>
+    <h3>Projeto criado para fins educacionais no estudo de ransomwares com Python.</h3>
     <p>Principais tópicos abordados:</p>
     <li>
         Criptografia
